@@ -1,0 +1,2 @@
+Model Name,Model Type,Version,Dataset,Accuracy,Precision,Recall,F1 Score,ROC-AUC,Status
+Titanic Survival Prediction,Random Forest,1.0,Titanic,0.8100558659217877,0.8301886792452831,0.6376811594202898,0.7213114754098361,0.8529644268774703,Production

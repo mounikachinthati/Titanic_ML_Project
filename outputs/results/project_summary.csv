@@ -1,0 +1,2 @@
+Final Model,Validation Accuracy,Validation Accuracy Percentage,Precision,Recall,F1 Score,ROC-AUC,Training Samples,Test Samples
+Logistic Regression,0.8379888268156425,83.80%,0.8125,0.7536231884057971,0.7819548872180451,0.8679841897233201,891,418
